@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavithrankb
 - 👀 I’m interested in tech,science,space,ML,Automation..
-- 🌱 I’m currently leanring python ML
+- 🌱 I’m currently learning python ML
 - 💞️ I’m looking to collaborate on any python related projects
 - 📫 How to reach me pavipavikb@gmail.com  
 
